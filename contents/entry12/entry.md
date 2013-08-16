@@ -84,3 +84,6 @@ The Secret of Living is Giving, celebrates the joy of giving
 
 「心の新陳代謝」はそのまま「現在のセルフイメージ」にフィードバックされていきます。
 
+##[現在のセルフイメージ①　すべての成功法則の根源はここにある](/contents/entry2/entry.html)　に進む
+
+##▲[もくじ](/contents/a_index/entry.html)

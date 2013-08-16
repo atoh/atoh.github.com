@@ -1,17 +1,16 @@
-現在のセルフイメージ⑤　催眠療法（ヒプノセラピー）
+##現在のセルフイメージ⑤　催眠療法（ヒプノセラピー）
 
 心理療法のひとつとして、ここ数年にわかに注目を集めているのが催眠療法（ヒプノセラピー）です。
 
 女優の宮崎ますみさんは、今ヒプノセラピストとしてご活躍のようです。
 
 ヒプノウーマン・サロン
-
 http://www.hypnowoman.jp/
 
-
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='750' height='452' src='http://www.youtube.com/embed/CIMJ67Q_Qcw?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p>&nbsp;</p>
 
  
-
 催眠療法（ヒプノセラピー）とは、深い催眠状態へと導き、潜在意識と顕在意識が統合された状態で、自分の中の深層にある問題へとアクセスしてイメージや暗示を用いて解放していく心理療法で、カウンセリング、セラピーのひとつです。一般的なカウンセリング・セラピーと比較して、催眠状態で深層心理により直接アクセスしていくメソッドなので、たいへん効果の高い心理療法です。
 
 ただし、催眠療法（ヒプノセラピー）がそれ以外のカウンセリング、セラピーよりも優れていると一概にはいえず、催眠状態になりやすい人、なりにくい人、ヒプノセラピストの経験値、スキル、そしてクライエントとの相性などがあるので、当然個人差があります。
@@ -23,7 +22,7 @@ http://www.hypnowoman.jp/
 催眠療院　銀枝庵（ぎんしあん）　http://ginshian.net/hypnotherapy.html
 より引用
 
-催眠療法（さいみんりょうほう）とは、英語のhypnotherapy（ヒプノセラピー）
+>催眠療法（さいみんりょうほう）とは、英語のhypnotherapy（ヒプノセラピー）
 の訳語で、催眠という技術を用いた心理・精神療法の一種です。
 催眠を利用して潜在意識に働きかけ、心の中のネガティブな部分をポジティブなものに変容することで、心理的な問題や心因的な症状を改善することを目標とします。
 催眠療法の特徴としては、薬物療法のような副作用がなく身体への負担が少ないことや、症状や体調、体質的問題、また、年齢や体力等の条件に左右されることなく一定のケアが可能なこと、他の心理療法と比べて比較的短期間で効果が得られることなどが挙げられています。
@@ -37,7 +36,8 @@ http://ginshian.net/hypnotherapy.html
 
 には、催眠療法Ｑ＆Ａもあるので、このページは催眠療法がどういったものなのか？イメージをつかむのに最適なのでお読みになるといいと思います。
 
-ヒプノセラピーでは「前世療法」というスピリチュアル思想に基づいた療法が用いられるところが多いです。
+ヒプノセラピーでは「前世療法」というスピリチュアル思想に基づいた療法が用いられるところがたいへん多いです。
+
 催眠療法では「退行催眠」というメソッドで、クライエントの過去に遡り、深層心理にアクセスするのですが、この過程で、ときどき実際に「前世の記憶」を語りだす人がいるそうです。
 これは、その人の潜在意識が、睡眠中に見る夢のように、いろいろな情報を再統合して紡ぎ合わせる「ニセの記憶」だという人もいますし、あまりにも真実性が感じられるので実際に調べてみたら、その人が知りようもない遠隔地の歴史的事実が確かにあったという事例もかなりの数確認されているようです。
 これは、現代科学の脳と意識の仕組みへの理解と根本的に矛盾するので、懐疑的、批判的に見られるのは当然で、「気功」などと同様、現象はそれなりに確認されているが、現代科学では実証的研究がまだまだ不十分でちゃんと取り扱えていない領域です。現状そういうことがあるようだがよくわかっていない、というのがもっとも誠実な科学的態度でしょう。
@@ -46,9 +46,13 @@ http://ginshian.net/hypnotherapy.html
 
 前世療法についてどうお考えですか？―ヒプノセラピーQ&A
 
-
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='750' height='452' src='http://www.youtube.com/embed/QDZl7NZmB64?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
 
 前世療法で本当に前世の記憶が得られるのでしょうか？―催眠療法Q&A
 
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='750' height='452' src='http://www.youtube.com/embed/1NNZd3aA9Fk?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
 
 
+##[現在のセルフイメージ⑥　セミナー　グループセッション　CD・DVD](/contents/entry7/entry.html)　に進む
+
+##▲[もくじ](/contents/a_index/entry.html)

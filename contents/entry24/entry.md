@@ -60,3 +60,6 @@ JALは一回破綻してますので、横暴とか、親方日の丸って話�
 
 イメージ
 
+##[現在のセルフイメージ①　すべての成功法則の根源はここにある](/contents/entry2/entry.html)　に進む
+
+##▲[もくじ](/contents/a_index/entry.html)
