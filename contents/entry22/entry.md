@@ -1,5 +1,7 @@
-実例　類は友を呼ぶ
+##実例　類は友を呼ぶ
 
-##[現在のセルフイメージ①　すべての成功法則の根源はここにある](/contents/entry2/entry.html)　に進む
+**引き寄せの法則**を
+
+##[実例　サイモン・シネック 優れたリーダーはどうやって行動を促すか](/contents/entry23/entry.html)　に進む
 
 ##▲[もくじ](/contents/a_index/entry.html)
