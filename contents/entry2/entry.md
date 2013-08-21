@@ -33,7 +33,7 @@
 ###ナポレオン・ヒル『思考は現実化する』
 ナポレオン・ヒルは、ウッドロウ・ウィルソン大統領の補佐官、フランクリン・ルーズベルト大統領の顧問官を­務めた人で、1908年、新聞記者として世界の鉄鋼王アンドリュー・カーネギーにインタビューをし­た事をきっかけに、「20年間無償で500名以上の成功者の研究をして、成功哲学を体­系化してくれないか」と頼まれ、 彼は「やらせてください」と即答、それから20年間苦悩の末、約束通り1928年に『­頭を使って豊かになれ(思考は現実化する)』（Think and Grow Rich）を執筆しました。この本は、全世界で7000万部を売り上げた超ベストセラーになりました。
 
-<a onclick="return mugicPopWin(this,event);" oncontextmenu="mugicRightClick(this);" href="http://www.amazon.co.jp/gp/product/4877710515/ref=as_li_ss_il?ie=UTF8&amp;camp=247&amp;creative=7399&amp;creativeASIN=4877710515&amp;linkCode=as2&amp;tag=tedlearner-22"><img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=4877710515&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=tedlearner-22">思考は現実化する―アクション・マニュアル、索引つき</a><img src="http://www.assoc-amazon.jp/e/ir?t=tedlearner-22&amp;l=as2&amp;o=9&amp;a=4877710515" width="1" height="100px" border="0" alt="" style="border:none!important;margin:0!important;" /></p>
+<a onclick="return mugicPopWin(this,event);" oncontextmenu="mugicRightClick(this);" href="http://www.amazon.co.jp/gp/product/4877710515/ref=as_li_ss_il?ie=UTF8&amp;camp=247&amp;creative=7399&amp;creativeASIN=4877710515&amp;linkCode=as2&amp;tag=tedlearner-22"><img border="0"   height="100px" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&amp;ASIN=4877710515&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=JP&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=tedlearner-22">思考は現実化する―アクション・マニュアル、索引つき</a></p>
 
 ナポレオン・ヒルの『思考は現実化する』は、600ページ以上のかなり分厚い本なのですが、その半分以上、いやほとんど全てと言っても良いと思うのですが、要するに
 「自分自身を見つめなおす作業」を読者に厳しく課しています。
