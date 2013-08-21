@@ -1,4 +1,4 @@
-![](/img/head2.png)
+![](https://lh4.googleusercontent.com/-jcMNTDRDjyg/UhTQD736ZQI/AAAAAAAAAAc/_hEpjRXBoYI/w918-h373-no/head2.png)
 
 ##不思議なことを何度も体験してきました。
 
