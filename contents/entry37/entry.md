@@ -113,8 +113,10 @@ http://diamond.jp/category/s-daifugoaniki
 実際に、そうやって会いに行った人が、その様子を収めたDVDを
 それを代用にすればいいと思います。
 
+
 <script type="text/javascript" src="http://www.infotop.jp/click.js"></script>
-<a href="http://honmamon.tv/" onClick="return clickCount(51667, 49216);">【★】ホンマもんの成功法則DVDBOXセット</a>
+<a href="http://honmamon.tv/" onClick="return clickCount(252768, 49216);">【★】ホンマもんの成功法則DVDBOXセット</a>
+
 
 
 このDVDの良いところは、本もそうですが、対話形式であることですね。
