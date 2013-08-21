@@ -1,4 +1,4 @@
-実例　バリ島の大富豪 丸尾考俊（アニキ）
+##実例　バリ島の大富豪 丸尾考俊（アニキ）
 
 めちゃくちゃ憧れたよ
 
@@ -131,6 +131,6 @@ http://diamond.jp/category/s-daifugoaniki
 「いや、それは〇〇で、〇〇やからや。」
 とドンドン掘り下げて理解が深まっていきます。
 
-##[現在のセルフイメージ①　すべての成功法則の根源はここにある](/contents/entry2/entry.html)　に進む
+##[実例　富山の薬売り　300年続くビジネス　おきぐすり](/contents/entry38/entry.html)　に進む
 
 ##▲[もくじ](/contents/a_index/entry.html)

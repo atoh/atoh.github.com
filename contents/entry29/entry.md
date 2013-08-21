@@ -1,5 +1,6 @@
-実例　フォース スターウォーズのジェダイの騎士　
+##実例　フォース スターウォーズのジェダイの騎士　
 
-##[現在のセルフイメージ①　すべての成功法則の根源はここにある](/contents/entry2/entry.html)　に進む
+
+##[実例　断捨離](/contents/entry30/entry.html)に進む
 
 ##▲[もくじ](/contents/a_index/entry.html)

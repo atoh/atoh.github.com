@@ -1,7 +1,10 @@
-実例　孫正義
+##実例　孫正義
 
+###孫正義－人生のビジョン 
+<iframe width="640" height="480" src="//www.youtube.com/embed/1QzpBRZphHs" frameborder="0" allowfullscreen></iframe>
 
+未来のセルフイメージの話。
 
-##[現在のセルフイメージ①　すべての成功法則の根源はここにある](/contents/entry2/entry.html)　に進む
+##[実例　フォース スターウォーズのジェダイの騎士](/contents/entry29/entry.html)　に進む
 
 ##▲[もくじ](/contents/a_index/entry.html)

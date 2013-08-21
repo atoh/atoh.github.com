@@ -1,4 +1,4 @@
-実例　ヒーラー 寺尾夫美子
+##実例　ヒーラー 寺尾夫美子
 
 スピリチュアル思想
 
@@ -31,10 +31,11 @@
 
 目覚めるということ
 
-
+<iframe width="853" height="480" src="//www.youtube.com/embed/Ja7KV-R2Gnw" frameborder="0" allowfullscreen></iframe>
 
 自分の弱さを認める
 
+<iframe width="853" height="480" src="//www.youtube.com/embed/j8n0EHvTcJs" frameborder="0" allowfullscreen></iframe>
 
 
 グラウンディングの強さについて
@@ -42,7 +43,7 @@
  
 
 思考、感性、言葉
-
+<iframe width="853" height="480" src="//www.youtube.com/embed/QvDM43Eas4c" frameborder="0" allowfullscreen></iframe>
 
 
 サイモン・シネック 優れたリーダーはどうやって行動を促すか
@@ -55,19 +56,18 @@
 「生命エネルギーの新陳代謝」について語っておられます。
 
 お金の流れ１
-
+<iframe width="853" height="480" src="//www.youtube.com/embed/wkKNlu2FaPY" frameborder="0" allowfullscreen></iframe>
 
 
 お金の流れ２
-
+<iframe width="853" height="480" src="//www.youtube.com/embed/hmtpcBUYWpo" frameborder="0" allowfullscreen></iframe>
 
 
 お金の流れ１_寺尾夫美子
-
-
+<iframe width="853" height="480" src="//www.youtube.com/embed/GMCRb6pb6PM" frameborder="0" allowfullscreen></iframe>
 
 お金の流れ２_寺尾夫美子
-
+<iframe width="853" height="480" src="//www.youtube.com/embed/lzg7YRXdD1M" frameborder="0" allowfullscreen></iframe>
 
 
 生命エネルギーの新陳代謝のひとつの側面である「お金」の循環ですが、
@@ -94,6 +94,6 @@
 
 そして、活発な生命エネルギーの新陳代謝の結果、あなたが引き寄せる大量の合意の媒体として正当な対価を得ること、お金廻りが良くなることと、「欲深い」ということは本質的に異なります。
 
-##[現在のセルフイメージ①　すべての成功法則の根源はここにある](/contents/entry2/entry.html)　に進む
+##[実例　バリ島の大富豪 丸尾考俊（アニキ）](/contents/entry37/entry.html)　に進む
 
 ##▲[もくじ](/contents/a_index/entry.html)
